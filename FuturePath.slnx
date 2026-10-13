@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FuturePath.Business/FuturePath.Business.csproj" />
+  <Project Path="FuturePath.Data/FuturePath.Data.csproj" />
+  <Project Path="FuturePath.UI/FuturePath.UI.csproj" Id="24e05135-c1f5-4c17-800a-4f6eb476b07c" />
+</Solution>
